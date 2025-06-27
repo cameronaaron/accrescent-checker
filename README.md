@@ -23,7 +23,7 @@ This script monitors the [Accrescent](https://accrescent.app) repository for cha
 ## Usage
 
 ```sh
-python3 main.py [options]
+python3 accrescent.py [options]
 ```
 
 ### Options
@@ -55,7 +55,7 @@ python3 main.py [options]
 ## Example
 
 ```sh
-python3 main.py --interval 600 --log-level DEBUG
+python3 accrescent.py --interval 600 --log-level DEBUG
 ```
 
 ## How It Works
